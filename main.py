@@ -18,7 +18,10 @@ quotes=[
  '''"If you set your goals ridiculouslyhigh and it's a failure, you will failabove everyone else's success."-James Cameron''',
  '''Control your lust & you'll understand how boring 90%of women are.''',
  '''Don't take revenge, leave them and becometheir biggest regret for losing you''',
- '''If you want to buy without looking at the prise, you have to work without looking at the clock'''
+ '''If you want to buy without looking at the prise, you have to work without looking at the clock''',
+ '''Get Physically fit-Workouts
+    Get mentally fit-By reading books,
+    Get socially fit-By Interacting with people'''
 ]
 
 from flask import Flask, render_template
